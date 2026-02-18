@@ -13,8 +13,9 @@ The analysis focused on the evaluation of cross-jurisdictional consistency and a
 data/
   legal_rules_dataset.csv
   legal_rules_dataset_pk.csv
-  rule_id_to_category.csv
   legal_rules_dataset_with_cat.csv
+  legal_rules_dataset_with_cat_rule_id.csv
+  rule_id_to_category.csv
 
 notebooks/
   Legal_Rules_Category_Merge.ipynb
