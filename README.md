@@ -20,5 +20,5 @@ data/
 notebooks/
   Legal_Rules_Category_Merge.ipynb
 
-Structured_Legal_Rules_Analysis.pdf
+norm_take_home_sam_webb.pdf
 ```
