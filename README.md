@@ -17,7 +17,7 @@ data/
   legal_rules_dataset_with_cat.csv
 
 notebooks/
-  Take_Home_Project_Sam_Webb.ipynb
+  Legal_Rules_Category_Merge.ipynb
 
 Structured_Legal_Rules_Analysis.pdf
 ```
